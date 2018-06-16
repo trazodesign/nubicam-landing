@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 230 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-1615.69,-6089.51)">
+        <g id="iPhone" transform="matrix(1,0,0,3.75056,1380.76,0.5)">
+            <rect x="0" y="0" width="1242" height="2208" style="fill:none;"/>
+            <g transform="matrix(1.43773,0,0,0.383337,63.8415,-430.045)">
+                <circle cx="199" cy="5437" r="80" style="fill:rgb(3,169,244);"/>
+            </g>
+            <g id="nubicam.-icons_icon.-03" transform="matrix(6.38889,0,0,1.70345,349.931,1654.16)">
+                <g transform="matrix(1,0,0,1,-18,-18)">
+                    <circle cx="18" cy="18" r="16" style="fill:rgb(3,169,245);"/>
+                    <g>
+                        <path d="M10.5,10.4L10.5,25.6L25.4,25.6L25.4,10.4L10.5,10.4ZM24.9,25L11.1,25L11.1,20.6L24.9,20.6L24.9,25ZM24.9,20.1L11.1,20.1L11.1,11L24.9,11L24.9,20.1Z" style="fill:white;fill-rule:nonzero;"/>
+                        <path d="M16.5,17.6L16.7,17.6L19.7,15.7C19.8,15.7 19.8,15.6 19.8,15.5C19.8,15.4 19.8,15.3 19.7,15.3L16.7,13.4C16.6,13.3 16.5,13.3 16.4,13.4C16.3,13.4 16.3,13.5 16.3,13.6L16.3,17.5C16.3,17.4 16.4,17.5 16.5,17.6ZM16.9,13.9L19.1,15.3L16.9,16.7L16.9,13.9Z" style="fill:white;fill-rule:nonzero;"/>
+                        <path d="M15.2,23.1L16.3,23.1L16.3,23.7C16.3,23.9 16.4,24 16.6,24C16.8,24 16.9,23.9 16.9,23.7L16.9,23.1L23.5,23.1C23.7,23.1 23.8,23 23.8,22.8C23.8,22.6 23.7,22.5 23.5,22.5L16.9,22.5L16.9,22C16.9,21.8 16.8,21.7 16.6,21.7C16.4,21.7 16.3,21.8 16.3,22L16.3,22.6L15.2,22.6C15,22.6 14.9,22.7 14.9,22.9C14.9,23.1 15.1,23.1 15.2,23.1Z" style="fill:white;fill-rule:nonzero;"/>
+                        <path d="M12.5,23.9C12.7,23.9 12.8,23.8 12.8,23.6L12.8,22C12.8,21.8 12.7,21.7 12.5,21.7C12.3,21.7 12.2,21.8 12.2,22L12.2,23.7C12.2,23.8 12.3,23.9 12.5,23.9Z" style="fill:white;fill-rule:nonzero;"/>
+                        <path d="M13.6,23.9C13.8,23.9 13.9,23.8 13.9,23.6L13.9,22C13.9,21.8 13.8,21.7 13.6,21.7C13.4,21.7 13.3,21.8 13.3,22L13.3,23.7C13.3,23.8 13.4,23.9 13.6,23.9Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
